@@ -1,6 +1,6 @@
-# Privacy-First Epic Code Checker
+# scoopet.codes
 
-A public-safe project overview for a bulk Epic Games code checker that keeps end-user submissions private in transit and keeps operational details out of the public repository.
+A public-safe project overview for a privacy-first Epic Games code checker that keeps end-user submissions private in transit and keeps operational details out of the public repository.
 
 This repository is intentionally minimal. It describes the product shape, privacy model, and encrypted request/response flow without publishing upstream implementation details, deployment secrets, private integration points, or infrastructure-specific behavior.
 
